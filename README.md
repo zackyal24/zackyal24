@@ -28,6 +28,16 @@ My name is **Ahmad Zacky Taufiqul Hakim**. As a dedicated Informatics student, I
 - 🌐 [GitHub](https://github.com/zackyal24)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmad-zacky-taufiqul-hakim-025999240)
 
+
+---
+### Github Statistic
+<p align="left">
+<a href="https://github.com/zackyal24">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zackyal24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zackyal24&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ---
 Thank you for visiting my GitHub portfolio! Feel free to explore my repositories and reach out if you'd like to collaborate on any exciting projects!
 
