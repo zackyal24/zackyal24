@@ -1,58 +1,45 @@
-# Hi there 👋
+# Hi there, I'm Ahmad Zacky Taufiqul Hakim 👋
 
-My name is **Ahmad Zacky Taufiqul Hakim**. As a dedicated Informatics student, I have a strong passion for web development and continuously strive to enhance my skills in this field. Currently, I am also exploring cloud computing to strengthen my ability to build innovative web-based solutions. Through the **Bangkit Academy** program, I have seized the opportunity to deepen my understanding of cloud technologies and apply them in cloud-based projects.
+Computer Science Graduate from **Universitas Singaperbangsa Karawang** (CGPA: 3.92/4.00) with hands-on experience in **Full Stack Web Development** and **Cloud Infrastructure**. 
 
-## About Me
-- 🌐 Passionate about **web development**
-- ☁️ Exploring **cloud computing** technologies
-- 💡 Eager to learn and work on innovative projects
-- 🤝 Open to collaboration and sharing knowledge
-
-## My Skills
-- **Programming Languages**: JavaScript, C++, Java
-- **Web Development**: HTML, CSS, Node.js
-- **Cloud Platforms**: Google Cloud
-- **Tools & Technologies**: Git, Docker, SQL
-
-## Projects
-### [Project 1: Isyara](https://github.com/Isyara-project)
-- Description: A mobile app that translates sign language into Indonesian text and speech using AI and cloud technologies.
-- Tech Stack: Android Studio, Machine Learning, Google Cloud
-
-## Achievements
-- Successfully completed the **Bangkit Academy** program, focusing on Cloud Computing.
-- Built and deployed multiple cloud-based applications.
-
-## Contact Me
-- 📧 Email: zackyalhakim24@gmail.com
-- 🌐 [GitHub](https://github.com/zackyal24)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmad-zacky-taufiqul-hakim-025999240)
-
+Certified **Junior Web Developer by BNSP**, an alumnus of **Bangkit Academy (Cloud Computing Path)**, and a **Cloud Computing Trainee at AWS re/Start (Orbit Future Academy)**. Experienced in building operational monitoring platforms, engineering RESTful APIs, and deploying applications on Google Cloud Platform.
 
 ---
-### Github Statistic
-<p align="left">
-<a href="https://github.com/zackyal24">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zackyal24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zackyal24&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** JavaScript (ES6+), TypeScript, Python, PHP, Java, C++, HTML5/CSS3, SQL
+- **Frontend:** React.js, Vite, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, Hapi, RESTful APIs, RBAC
+- **Databases & BaaS:** PostgreSQL, MySQL, Supabase, Firebase
+- **Cloud & DevOps:** Google Cloud Platform (GCP), Amazon Web Services (AWS), Docker, Linux
+- **Tools:** Git, GitHub, Postman, Figma
 
 ---
-Thank you for visiting my GitHub portfolio! Feel free to explore my repositories and reach out if you'd like to collaborate on any exciting projects!
 
+### 🚀 Featured Projects
 
-<!--
-**zackyal24/zackyal24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[Field Monitoring & Verification Platform - BPS Bekasi](https://github.com/zackyal24)**
+  Automated web-based operational monitoring system for crop-cutting surveys replacing manual spreadsheets. Built with Node.js, Express, Supabase, and Google Cloud Storage (GCS). Reduced reporting turnaround by 95% and achieved an **82.54% User Acceptance Testing (UAT) score**.
 
-Here are some ideas to get you started:
+- **[Isyara - AI-Powered Sign Language Translation](https://github.com/Isyara-project)**
+  Architected and deployed scalable backend infrastructure on Google Cloud Platform (GCP) to host AI-powered sign language translation services connecting mobile clients with ML models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[eTrack - Personal Finance Tracking App](https://github.com/zackyal24)**
+  Full-stack web application built using Node.js, Express.js, and MySQL with multi-category expense analytics and automated cash flow summaries.
+
+---
+
+### 🏆 Credentials & Highlights
+
+- **Junior Web Developer** – Badan Nasional Sertifikasi Profesi (BNSP)
+- **Cloud Computing Path Cohort** – Bangkit Academy (Google, GoTo, Traveloka)
+- **AWS re/Start Trainee** – Orbit Future Academy x Amazon Web Services
+- **Google Cloud Certified: Architect & Engineer Track** – Dicoding Indonesia
+
+---
+
+📫 **Connect with me:**
+- **LinkedIn:** [linkedin.com/in/zackyth](https://linkedin.com/in/zackyth)
+- **Portfolio:** [zackyth.my.id](https://zackyth.my.id)
+- **Email:** zackyalhakim24@gmail.com
